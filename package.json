@@ -1,0 +1,17 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "description": "A simple blog website using Express and EJS",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
